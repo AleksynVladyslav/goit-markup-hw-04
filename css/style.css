@@ -338,7 +338,7 @@ ul {
 
 .customers-list .customers-link {
   display: block;
-  /* padding: 16px 32px; */
+  padding: 16px 32px;
 
   border: 1px solid var(--light-slate);
   border-radius: 4px;
